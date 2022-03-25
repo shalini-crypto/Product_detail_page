@@ -1,0 +1,16 @@
+html,
+body {
+    /* margin: 0;
+    height: 100%; */
+    /* overflow: hidden; */
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.MainContainer {
+    width: 100%;
+    padding: 4% 12%;
+    margin-top: 32px;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+}
